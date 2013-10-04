@@ -1,0 +1,4 @@
+colorbox
+========
+
+version 1
